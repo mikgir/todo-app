@@ -35,14 +35,15 @@ export default {
 
 <style scoped>
 li {
-  height: 60px;
-  border: 1px solid #2c3e50;
+  height: 5rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
   font-size: 3rem;
   margin: 20px auto;
   padding: 1rem 2rem;
+  border: 1px solid #2c3e50;
+  border-radius: 5px;
 }
 input {
   margin-right: 1rem;
