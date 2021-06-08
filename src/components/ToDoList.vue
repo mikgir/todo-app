@@ -41,7 +41,9 @@ export default {
 ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 20px;
+  border: 2px solid #aeaeae;
+  border-radius: 5px;
 }
 
 </style>
